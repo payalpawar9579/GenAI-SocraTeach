@@ -26,3 +26,4 @@ The core of the project is an AI-driven chatbot that interacts with students, as
 <img width="1147" alt="Screenshot 2024-10-02 at 11 06 42 PM" src="https://github.com/user-attachments/assets/73db3533-b8b2-432a-8a29-e614faf0cca6">
 <img width="1147" alt="Screenshot 2024-10-02 at 11 06 59 PM" src="https://github.com/user-attachments/assets/5fe70ae0-3c49-47dd-9154-70a3f751e16d">
 <img width="1147" alt="Screenshot 2024-10-02 at 11 07 07 PM" src="https://github.com/user-attachments/assets/f44c6422-8417-42f7-a823-d606b2dddd11">
+<img width="432" alt="Screenshot 2024-10-02 at 11 20 19 PM" src="https://github.com/user-attachments/assets/bcc26c93-0edd-43b1-8d35-ea17341c51fa">
