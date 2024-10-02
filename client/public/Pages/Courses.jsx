@@ -37,7 +37,7 @@ const Courses = () => {
     <div
       className="flex flex-col items-center justify-center min-h-screen relative"
       style={{
-        backgroundImage: `url(/Images/bg.jpg)`,
+        backgroundImage: `url(/Images/Dashbg.jpg)`, // Updated background image URL
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         opacity: 1,
