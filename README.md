@@ -11,10 +11,6 @@ The core of the project is an AI-driven chatbot that interacts with students, as
 - **Fallback Mechanism**: If the chatbot fails to understand a query, it prompts the user to rephrase, keeping the learning flow uninterrupted.
 - **Responsive Design**: Built using React and Tailwind CSS, SocraTeach ensures a smooth and intuitive user experience across devices.
 
-<img width="1143" alt="Screenshot 2024-10-02 at 11 03 18 PM" src="https://github.com/user-attachments/assets/c7b4b91d-55ce-416a-86a4-f0b62461f8ac">
-<img width="1147" alt="Screenshot 2024-10-02 at 11 03 27 PM" src="https://github.com/user-attachments/assets/355057d2-f4d6-45ab-8aea-55d7f4d9ff93">
-<img width="1147" alt="Screenshot 2024-10-02 at 11 03 36 PM" src="https://github.com/user-attachments/assets/f5f57579-b7b1-407f-95ff-8ff6e919ad69">
-<img width="1147" alt="Screenshot 2024-10-02 at 11 03 41 PM" src="https://github.com/user-attachments/assets/9bffc1d6-5671-46d2-b9e2-4847e9aae0fc">
 <img width="1147" alt="Screenshot 2024-10-02 at 11 03 57 PM" src="https://github.com/user-attachments/assets/f6ea2128-23a4-4648-8c60-79e9b35be68f">
 <img width="1145" alt="Screenshot 2024-10-02 at 11 04 07 PM" src="https://github.com/user-attachments/assets/965f957b-8e8c-4a21-91b3-173269dfee3a">
 <img width="1147" alt="Screenshot 2024-10-02 at 11 04 17 PM" src="https://github.com/user-attachments/assets/e7cd2834-627b-4c7f-9835-6d7f2ecd48ff">
