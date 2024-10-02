@@ -1,8 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Login from '../public/Pages/Login.jsx';
-import ChatBot from '../public/Components/ChatBot.jsx';
-
 import Dashboard from '../public/Pages/Dashboard.jsx';
 import DissForum from '../public/Pages/DissForum.jsx'; 
 import CourseDash from '../public/Pages/CourseDash.jsx'; 
@@ -25,7 +23,6 @@ const App = () => {
         <Routes>
           <Route path="/" element={<Login />} />
           <Route path="/Dashboard" element={<Dashboard />} />
-          <Route path="/ChatBot" element={<ChatBot />} />
 
           <Route path="/LBoard" element={<LBoard />} />
 
