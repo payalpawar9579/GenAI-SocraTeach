@@ -11,3 +11,22 @@ The core of the project is an AI-driven chatbot that interacts with students, as
 - **Fallback Mechanism**: If the chatbot fails to understand a query, it prompts the user to rephrase, keeping the learning flow uninterrupted.
 - **Responsive Design**: Built using React and Tailwind CSS, SocraTeach ensures a smooth and intuitive user experience across devices.
 
+<img width="1143" alt="Screenshot 2024-10-02 at 11 03 18 PM" src="https://github.com/user-attachments/assets/c7b4b91d-55ce-416a-86a4-f0b62461f8ac">
+<img width="1147" alt="Screenshot 2024-10-02 at 11 03 27 PM" src="https://github.com/user-attachments/assets/355057d2-f4d6-45ab-8aea-55d7f4d9ff93">
+<img width="1147" alt="Screenshot 2024-10-02 at 11 03 36 PM" src="https://github.com/user-attachments/assets/f5f57579-b7b1-407f-95ff-8ff6e919ad69">
+<img width="1147" alt="Screenshot 2024-10-02 at 11 03 41 PM" src="https://github.com/user-attachments/assets/9bffc1d6-5671-46d2-b9e2-4847e9aae0fc">
+<img width="1147" alt="Screenshot 2024-10-02 at 11 03 57 PM" src="https://github.com/user-attachments/assets/f6ea2128-23a4-4648-8c60-79e9b35be68f">
+<img width="1145" alt="Screenshot 2024-10-02 at 11 04 07 PM" src="https://github.com/user-attachments/assets/965f957b-8e8c-4a21-91b3-173269dfee3a">
+<img width="1147" alt="Screenshot 2024-10-02 at 11 04 17 PM" src="https://github.com/user-attachments/assets/e7cd2834-627b-4c7f-9835-6d7f2ecd48ff">
+<img width="1147" alt="Screenshot 2024-10-02 at 11 04 24 PM" src="https://github.com/user-attachments/assets/edeaec6b-1575-482d-b560-fb32d95c0f82">
+<img width="1147" alt="Screenshot 2024-10-02 at 11 04 31 PM" src="https://github.com/user-attachments/assets/f2e23b8e-3a73-4cc7-8446-35135cf08470">
+<img width="1147" alt="Screenshot 2024-10-02 at 11 04 37 PM" src="https://github.com/user-attachments/assets/4e5896de-b1bc-40ca-8f67-f9b4c0673c92">
+<img width="1147" alt="Screenshot 2024-10-02 at 11 05 24 PM" src="https://github.com/user-attachments/assets/265d6952-5006-4005-968d-9e47227b017e">
+<img width="1147" alt="Screenshot 2024-10-02 at 11 05 43 PM" src="https://github.com/user-attachments/assets/77c28d44-de39-4a2e-9e9f-d5fd817b268e">
+<img width="1147" alt="Screenshot 2024-10-02 at 11 05 54 PM" src="https://github.com/user-attachments/assets/1744bb0a-e53d-4e05-bdb1-b4b17ab58a09">
+<img width="1147" alt="Screenshot 2024-10-02 at 11 06 05 PM" src="https://github.com/user-attachments/assets/6bed74b0-40c8-440f-881a-4efa27063033">
+<img width="1147" alt="Screenshot 2024-10-02 at 11 06 12 PM" src="https://github.com/user-attachments/assets/4f73cbab-b786-4a9e-841a-cee192182b33">
+<img width="1147" alt="Screenshot 2024-10-02 at 11 06 27 PM" src="https://github.com/user-attachments/assets/445ae1d0-bedd-4459-b66a-44412ead9fad">
+<img width="1147" alt="Screenshot 2024-10-02 at 11 06 42 PM" src="https://github.com/user-attachments/assets/73db3533-b8b2-432a-8a29-e614faf0cca6">
+<img width="1147" alt="Screenshot 2024-10-02 at 11 06 59 PM" src="https://github.com/user-attachments/assets/5fe70ae0-3c49-47dd-9154-70a3f751e16d">
+<img width="1147" alt="Screenshot 2024-10-02 at 11 07 07 PM" src="https://github.com/user-attachments/assets/f44c6422-8417-42f7-a823-d606b2dddd11">
