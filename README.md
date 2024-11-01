@@ -1,8 +1,8 @@
 # SocraTeach
 
 Website Link:
-https://66fd783ad9202c373bdb0694--socrateachme.netlify.app/
-##
+
+https://66fd8a31aec2e20008bb5c5a--socrateachme.netlify.app/
 
 **SocraTeach** is an AI-powered learning platform designed to teach Data Structures and Algorithms (DSA) through the Socratic method. By engaging students in guided question-based dialogue, SocraTeach encourages critical thinking and deeper understanding, allowing learners to grasp complex concepts through inquiry rather than memorization.
 
