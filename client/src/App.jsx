@@ -13,7 +13,7 @@ import Courses from '../public/Pages/Courses.jsx';
 import MyProfile from '../public/Pages/MyProfile.jsx';
 import Calendar from "../public/Components/Calendar.jsx";
 import '../src/App.css';
-
+//integrate the gemini chatbot
 const App = () => {
   return (
     <>
